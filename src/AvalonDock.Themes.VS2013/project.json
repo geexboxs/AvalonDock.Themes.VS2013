@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0-*",
+  "description": "AvalonDock.Themes.VS2013",
+  "authors": [ "Lulus" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+  "frameworks": {
+    "net451": {
+      "frameworkAssemblies": {
+        "WindowsBase": "4.0.0.0"
+      }
+    },
+    "net452": {
+      "frameworkAssemblies": {
+        "WindowsBase": "4.0.0.0"
+      }
+    },
+    "net45": {
+      "frameworkAssemblies": {
+        "WindowsBase": "4.0.0.0"
+      }
+    },
+  },
+  "dependencies": {
+    "Xceed.Wpf.AvalonDock": "2.9.15603.14400",
+    "Xceed.Wpf.Themes": "2.9.15603.14400"
+    
+  }
+}

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{786E16A5-9F17-4F40-BD5B-3244FF8B3DA5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4901656D-7C28-419E-90BC-AB633D1B58C1}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "AvalonDock.Themes.VS2013", "src\AvalonDock.Themes.VS2013\AvalonDock.Themes.VS2013.xproj", "{9AEB217A-60D4-43E3-B06E-CDC301568104}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AEB217A-60D4-43E3-B06E-CDC301568104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AEB217A-60D4-43E3-B06E-CDC301568104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AEB217A-60D4-43E3-B06E-CDC301568104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AEB217A-60D4-43E3-B06E-CDC301568104}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9AEB217A-60D4-43E3-B06E-CDC301568104} = {786E16A5-9F17-4F40-BD5B-3244FF8B3DA5}
+	EndGlobalSection
+EndGlobal
