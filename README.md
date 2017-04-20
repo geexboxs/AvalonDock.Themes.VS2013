@@ -16,3 +16,5 @@ The origin repo is https://github.com/4ux-nbIx/AvalonDock.Themes.VS2013/tree/mas
   </xcad:DockingManager.Theme>
 ```
 To install AvalonDock.Themes.VS2013, run the following command in the Package Manager Console
+
+`Install-Package AvalonDock.Themes.VS2013`
