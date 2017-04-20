@@ -5,7 +5,7 @@ Simply modified it to work with AvalonDock v2.9.
 
 ## About
 
-The origin repo is https://github.com/4ux-nbIx/AvalonDock.Themes.VS2013/tree/master/Xceed.Wpf.AvalonDock.Themes.VS2013, but I cannot use the origin one and did some customize.
+The origin repo is https://github.com/4ux-nbIx/AvalonDock.Themes.VS2013/tree/master/Xceed.Wpf.AvalonDock.Themes.VS2013, but I cannot use the origin one and did some customization.
 
 ## Usage:
 ```
